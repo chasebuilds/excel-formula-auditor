@@ -1,0 +1,7 @@
+{
+  "title": "Excel Formula Auditor: Find risky formulas in Excel workbooks | Chase Builds",
+  "description": "Scan Excel workbooks for formula risks: error values, hard-coded numbers, inconsistent formulas, external links and numbers stored as text. In your browser.",
+  "url": "https://chasebuilds.github.io/excel-formula-auditor/",
+  "image": "docs/demo.png",
+  "repo": "excel-formula-auditor"
+}
