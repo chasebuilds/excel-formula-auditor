@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/chasebuilds/excel-formula-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/chasebuilds/excel-formula-auditor/actions/workflows/ci.yml) ![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue) [![MIT license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
+**[Live demo: try it in your browser](https://chasebuilds.github.io/excel-formula-auditor/)**. Drop in your own file or run the bundled sample with one click. The real package runs in the page with Pyodide, so files never leave your browser.
+
+[![The live demo after running the sample: the tool's summary, result tabs and output table](docs/demo.png)](https://chasebuilds.github.io/excel-formula-auditor/)
+
 Scans an .xlsx workbook and reports formula risks: error values (#REF!, #DIV/0!, #N/A, #VALUE! and the rest), hard-coded numbers inside formulas, formulas that differ from their row or column neighbors, references to empty cells, links to other workbooks, and numbers stored as text. The result is an Excel report (sheet, cell, issue, formula) and a one-line summary. Everything runs offline.
 
 ## Measured result
