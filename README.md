@@ -57,3 +57,11 @@ book.xlsx: 6 findings in 2 sheets: 2 error_value, 1 hardcoded_number, 1 inconsis
 ## License
 
 MIT, Chase Builds.
+
+## More from Chase Builds
+
+- **[data-merger](https://github.com/chasebuilds/data-merger)**: Combines customer lists with different columns into one record per customer. 0 false merges on 28,512 rows. ([live demo](https://chasebuilds.github.io/data-merger/))
+- **[pdf-table-extractor](https://github.com/chasebuilds/pdf-table-extractor)**: 38,528 of 38,968 cells exact, 240 of 240 tables found. ([live demo](https://chasebuilds.github.io/pdf-table-extractor/))
+- **[transaction-categorizer](https://github.com/chasebuilds/transaction-categorizer)**: Sorts bank and card transactions into categories and builds the monthly summary. ([live demo](https://chasebuilds.github.io/transaction-categorizer/))
+
+[All projects, sorted by industry](https://github.com/chasebuilds) · [chasebuilds.github.io](https://chasebuilds.github.io)
